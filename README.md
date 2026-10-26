@@ -15,4 +15,4 @@ I enjoy working in Rust, Python, C++, C#, CUDA, GLSL, OpenSCAD, and KiCad.
 ![Collage of projects: OpenXeen game engine, LED matrix displays, Raspberry Pi robot, CNC router, gear design, maze generator, network monitor and thesis progress chart](moodboard-2026-10-04.webp)
 
 
-The work here is stuff I make for hobby purposes in my spare time. It's not intended as a professional portfolio.
+This profile holds hobby projects, made in my spare time.
